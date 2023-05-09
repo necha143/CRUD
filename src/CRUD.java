@@ -1,6 +1,4 @@
-import java.io.BufferedReader;
 import java.io.IOException;
-import java.io.InputStreamReader;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.*;
@@ -10,7 +8,7 @@ CRUD
 */
 
 
-public class Solution {
+public class CRUD {
     public static List<Person> allPeople = new ArrayList<Person>();
 
     static {
